@@ -1,6 +1,6 @@
 package config
 
-var ProjectName = "StratumProxy"
+var ProjectName = "Skydoge_Proxy"
 
 var GitTag string
 var BuildTime string
